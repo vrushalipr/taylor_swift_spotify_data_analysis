@@ -1,1 +1,2 @@
-# taylor_swift_spotify_data_analysis
+Kaggle dataset: Taylor Swift Spotify Dataset
+Analyzed the dataset
